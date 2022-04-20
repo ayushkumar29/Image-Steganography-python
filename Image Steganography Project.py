@@ -63,7 +63,7 @@ def Encode():
     EncodeButton.place(relx=0.4,rely=0.5)
 #Initializing the screen
 Screen = Tk()
-Screen.title("Image Steganography by - TechVidvan ")
+Screen.title("Image Steganography by - Ayush KUmar ")
 Screen.geometry("500x500+300+300")
 Screen.config(bg= "blue")
 #creating buttons
